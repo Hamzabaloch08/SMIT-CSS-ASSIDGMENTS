@@ -1,0 +1,40 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lemon&family=Lobster&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(80, 79, 79);
+    font-family: 'Lemon', serif;
+}
+
+.container{
+    margin-top: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    text-transform: capitalize;
+}
+
+h1{
+    transition: all 0.3s linear;
+}
+
+h1:hover{
+    transform: scale(1.1);
+}
+
+a{
+    color: #b9b9b9;
+    text-decoration: none;
+    transition: all 0.3s linear;
+}
+
+a:hover{
+    color: #fff;
+}
