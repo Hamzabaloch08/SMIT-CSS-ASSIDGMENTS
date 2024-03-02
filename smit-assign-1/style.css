@@ -86,3 +86,12 @@ a:hover{
   border: 1px solid #d1dce5;
   background-color: #fff;
 }
+
+.notics>h1{
+  margin-top: 10px;
+  text-transform: capitalize;
+}
+
+.notics>p{
+  text-transform: capitalize;
+}

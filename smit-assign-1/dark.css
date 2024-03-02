@@ -38,3 +38,13 @@ a{
 a:hover{
     color: #fff;
 }
+
+
+
+.notics{
+    text-align: center;
+    margin-top: 50px;
+    text-transform: capitalize;
+    color: #fff;
+    font-family: sans-serif;
+}
